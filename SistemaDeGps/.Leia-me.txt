@@ -1,0 +1,5 @@
+1º Passo: Execute ProgramaC.exe;
+2º Passo: Cadastre as cidades;
+3º Passo: Cadastre as estradas;
+4º Passo: No menu de programaC.exe tecle 6 para gerar o arquivo BaseDeDadosHaskell.txt;
+5º Passo: Siga os passos que são indicados apos a termino do passo anterior;
